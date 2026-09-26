@@ -1,0 +1,12 @@
+{
+  "name": "PROJECT TEAM 404",
+  "version": "2.0.0",
+  "main": "system/main.js",
+  "scripts": {
+    "start": "node system/main.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "dotenv": "^16.4.5"
+  }
+}
